@@ -12,7 +12,6 @@ Insights and recommendations are provided on the following key areas:
 - Transportation Cost Optimization
 - Demand, Lead Time & Backorder Analysis
 
-Power BI dashboard used to explore operational trends can be found here: [Dashboard Link]
 
 ---
 
@@ -122,4 +121,5 @@ DSI =
 
 ### Inventory Turnover Ratio
 Inventory Turnover =
+
 Cost of Goods Sold / Average Inventory
